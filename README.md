@@ -1,5 +1,10 @@
 # Webhook Reception
-Run project
+## Install Project
+```
+$ npm install
+```
+
+## Run project
 ```
 $ npm run dev
 $ ngrok http 5000
